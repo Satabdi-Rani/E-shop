@@ -54,12 +54,8 @@ const Navbar = () => {
                     </ul>
                 </nav>
             </div>
-            {/* no need */}
-            <div>
-                <button>
-                    View More
-                </button>
-            </div>
+          
+            
             </div>
         
     );
